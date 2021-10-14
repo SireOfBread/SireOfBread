@@ -1,9 +1,14 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SireOfBread&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**SireOfBread/SireOfBread** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SireOfBread&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![](https://komarev.com/ghpvc/?username=SireOfBread&color=blueviolet)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
